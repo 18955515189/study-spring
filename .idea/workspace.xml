@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb791bb6-565c-4f66-bd89-48dd49450fd1" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/../study-spring/out/" />
-    <ignored path="$PROJECT_DIR$/../study-spring/target/" />
-    <ignored path="$PROJECT_DIR$/../study-spring/ioc-beans-demo/target/" />
-    <ignored path="$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/target/" />
+    <list id="08fbeb13-39b2-4e29-8cfa-9069c12b51d2" name="New changelist" comment="" />
+    <list default="true" id="bb791bb6-565c-4f66-bd89-48dd49450fd1" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../study-spring/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/container/AnnotationApplicationContextIocContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/container/BeanFactoryIocContainer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study-spring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../study-spring/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/injection/DependencyIngectionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/injection/DependencyIngectionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/依赖查找和依赖注入.md" beforeDir="false" afterPath="$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/依赖查找和依赖注入.md" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/ioc-beans-demo/target/" />
+    <ignored path="$PROJECT_DIR$/ioc-cantainer-overview/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +23,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../study-spring/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -24,35 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../study-spring/ioc-beans-demo/src/main/java/com/weizhouck/beans/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BeanInfoDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../study-spring/ioc-beans-demo/src/main/java/com/weizhouck/beans/BeanInfoDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="18" column="76" selection-start-line="18" selection-start-column="76" selection-end-line="18" selection-end-column="76" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="DependencyLookupDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/lookup/DependencyLookupDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+            <state relative-caret-position="1224">
+              <caret line="58" column="41" selection-start-line="58" selection-start-column="41" selection-end-line="58" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -60,11 +45,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DependencyIngectionDemo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DependencyIngectionDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/injection/DependencyIngectionDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="34" column="55" selection-start-line="34" selection-start-column="55" selection-end-line="34" selection-end-column="55" />
+            <state relative-caret-position="912">
+              <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConfigurableApplicationContext.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.9.RELEASE/spring-context-5.1.9.RELEASE-sources.jar!/org/springframework/context/ConfigurableApplicationContext.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4536">
+              <caret line="211" column="36" selection-start-line="211" selection-start-column="36" selection-end-line="211" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractApplicationContext.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.9.RELEASE/spring-context-5.1.9.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9840">
+              <caret line="514" column="16" selection-start-line="514" selection-start-column="16" selection-end-line="514" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -72,8 +75,8 @@
       <file leaf-file-name="UserRepository.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/respository/UserRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="25" column="62" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="62" />
+            <state relative-caret-position="168">
+              <caret line="13" column="22" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -93,8 +96,8 @@
       <file leaf-file-name="ListableBeanFactory.java" pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE-sources.jar!/org/springframework/beans/factory/ListableBeanFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="265" column="17" lean-forward="true" selection-start-line="265" selection-start-column="17" selection-end-line="265" selection-end-column="17" />
+            <state relative-caret-position="5904">
+              <caret line="265" column="17" selection-start-line="265" selection-start-column="17" selection-end-line="265" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -102,8 +105,8 @@
       <file leaf-file-name="DefaultListableBeanFactory.java" pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="650" column="45" selection-start-line="650" selection-start-column="45" selection-end-line="650" selection-end-column="45" />
+            <state relative-caret-position="960">
+              <caret line="118" column="13" selection-start-line="118" selection-start-column="13" selection-end-line="118" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -111,20 +114,8 @@
       <file leaf-file-name="SuperUser.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/domain/SuperUser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Supper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/annotation/Supper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            <state relative-caret-position="264">
+              <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -135,8 +126,8 @@
       <file leaf-file-name="dependency-lookup-context.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/resources/META-INF/dependency-lookup-context.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+            <state relative-caret-position="264">
+              <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -144,35 +135,20 @@
       <file leaf-file-name="ObjectFactory.java" pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE-sources.jar!/org/springframework/beans/factory/ObjectFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
+            <state relative-caret-position="600">
               <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ObjectFactoryCreatingFactoryBean.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE-sources.jar!/org/springframework/beans/factory/config/ObjectFactoryCreatingFactoryBean.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="100" column="19" selection-start-line="100" selection-start-column="19" selection-end-line="100" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/domain/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+            <state relative-caret-position="48">
+              <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -181,37 +157,58 @@
         <entry file="file://$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/依赖查找和依赖注入.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="278">
-                <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+              <first_editor relative-caret-position="408">
+                <caret line="17" column="16" selection-start-line="17" selection-end-line="17" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PropertyEditorSupport.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/jdk1.8.0_60/src.zip!/java/beans/PropertyEditorSupport.java">
+      <file leaf-file-name="FactoryBean.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE-sources.jar!/org/springframework/beans/factory/FactoryBean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+            <state relative-caret-position="240">
+              <caret line="10" column="65" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="65" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Method.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/jdk1.8.0_60/src.zip!/java/lang/reflect/Method.java">
+      <file leaf-file-name="BeanFactoryIocContainer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/container/BeanFactoryIocContainer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="483" selection-start-line="482" selection-end-line="483" />
+            <state relative-caret-position="365">
+              <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PropertyDescriptor.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/jdk1.8.0_60/src.zip!/java/beans/PropertyDescriptor.java">
+      <file leaf-file-name="Deprecated.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/jdk1.8.0_60/src.zip!/java/lang/Deprecated.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="67" column="11" selection-start-line="67" selection-start-column="11" selection-end-line="67" selection-end-column="11" />
+            <state relative-caret-position="456">
+              <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AnnotationApplicationContextIocContainer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/container/AnnotationApplicationContextIocContainer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AnnotationConfigApplicationContext.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.9.RELEASE/spring-context-5.1.9.RELEASE-sources.jar!/org/springframework/context/annotation/AnnotationConfigApplicationContext.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1560">
+              <caret line="87" column="10" selection-start-line="87" selection-start-column="10" selection-end-line="87" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -226,26 +223,41 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Refr</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../study-spring" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../study-spring/ioc-beans-demo/pom.xml" />
-        <option value="$PROJECT_DIR$/../study-spring/pom.xml" />
-        <option value="$PROJECT_DIR$/../study-spring/ioc-beans-demo/src/main/java/com/weizhouck/java/beans/Person.java" />
-        <option value="$PROJECT_DIR$/../study-spring/ioc-beans-demo/src/main/java/com/weizhouck/beans/Person.java" />
-        <option value="$PROJECT_DIR$/../study-spring/ioc-beans-demo/src/main/java/com/weizhouck/beans/BeanInfoDemo.java" />
-        <option value="$PROJECT_DIR$/../study-spring/ioc-beans-demo/依赖查找和依赖注入.md" />
-        <option value="$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/pom.xml" />
-        <option value="$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/domain/user.java" />
+        <option value="$PROJECT_DIR$/ioc-beans-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/ioc-beans-demo/src/main/java/com/weizhouck/java/beans/Person.java" />
+        <option value="$PROJECT_DIR$/ioc-beans-demo/src/main/java/com/weizhouck/beans/Person.java" />
+        <option value="$PROJECT_DIR$/ioc-beans-demo/src/main/java/com/weizhouck/beans/BeanInfoDemo.java" />
+        <option value="$PROJECT_DIR$/ioc-beans-demo/依赖查找和依赖注入.md" />
+        <option value="$PROJECT_DIR$/ioc-cantainer-overview/pom.xml" />
+        <option value="$PROJECT_DIR$/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/domain/user.java" />
+        <option value="$PROJECT_DIR$/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/annotation/Supper.java" />
+        <option value="$PROJECT_DIR$/ioc-cantainer-overview/src/main/resources/META-INF/dependency-lookup-context.xml" />
+        <option value="$PROJECT_DIR$/ioc-cantainer-overview/src/main/resources/META-INF/dependency-injection-context.xml" />
+        <option value="$PROJECT_DIR$/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/lookup/DependencyLookupDemo.java" />
+        <option value="$PROJECT_DIR$/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/respository/UserRepository.java" />
+        <option value="$PROJECT_DIR$/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/injection/DependencyIngectionDemo.java" />
+        <option value="$PROJECT_DIR$/ioc-cantainer-overview/src/依赖查找和依赖注入.md" />
+        <option value="$PROJECT_DIR$/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/container/IocContainer.java" />
+        <option value="$PROJECT_DIR$/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/container/BeanFactoryIocContainer.java" />
+        <option value="$PROJECT_DIR$/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/domain/User.java" />
+        <option value="$PROJECT_DIR$/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/domain/SuperUser.java" />
+        <option value="$PROJECT_DIR$/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/container/AnnotationApplicationContextIocContainer.java" />
+        <option value="$PROJECT_DIR$/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/container/BeanFactoryIocContainer.java" />
+        <option value="$PROJECT_DIR$/ioc-cantainer-overview/src/依赖查找和依赖注入.md" />
+        <option value="$PROJECT_DIR$/ioc-cantainer-overview/src/依赖查找和依赖注入.md" />
         <option value="$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/domain/User.java" />
-        <option value="$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/annotation/Supper.java" />
-        <option value="$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/domain/SuperUser.java" />
-        <option value="$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/resources/META-INF/dependency-lookup-context.xml" />
-        <option value="$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/依赖查找和依赖注入.md" />
-        <option value="$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/resources/META-INF/dependency-injection-context.xml" />
-        <option value="$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/lookup/DependencyLookupDemo.java" />
-        <option value="$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/respository/UserRepository.java" />
-        <option value="$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/injection/DependencyIngectionDemo.java" />
       </list>
     </option>
   </component>
@@ -274,11 +286,12 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="2420" />
+    <option name="height" value="1320" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <flattenPackages ProjectPane="false" />
@@ -286,39 +299,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="study-spring" type="b2602c69:ProjectViewProjectNode" />
               <item name="study-spring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study-spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study-spring" type="462c0819:PsiDirectoryNode" />
-              <item name="ioc-beans-demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study-spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study-spring" type="462c0819:PsiDirectoryNode" />
-              <item name="ioc-beans-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study-spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study-spring" type="462c0819:PsiDirectoryNode" />
-              <item name="ioc-beans-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study-spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study-spring" type="462c0819:PsiDirectoryNode" />
-              <item name="ioc-beans-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="study-spring" type="b2602c69:ProjectViewProjectNode" />
@@ -387,6 +374,32 @@
               <item name="weizhouck" type="462c0819:PsiDirectoryNode" />
               <item name="ioc" type="462c0819:PsiDirectoryNode" />
               <item name="dependency" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study-spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="ioc-cantainer-overview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="weizhouck" type="462c0819:PsiDirectoryNode" />
+              <item name="ioc" type="462c0819:PsiDirectoryNode" />
+              <item name="dependency" type="462c0819:PsiDirectoryNode" />
+              <item name="container" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study-spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="ioc-cantainer-overview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="weizhouck" type="462c0819:PsiDirectoryNode" />
+              <item name="ioc" type="462c0819:PsiDirectoryNode" />
+              <item name="dependency" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="study-spring" type="b2602c69:ProjectViewProjectNode" />
@@ -400,6 +413,19 @@
               <item name="ioc" type="462c0819:PsiDirectoryNode" />
               <item name="dependency" type="462c0819:PsiDirectoryNode" />
               <item name="injection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study-spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="ioc-cantainer-overview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="weizhouck" type="462c0819:PsiDirectoryNode" />
+              <item name="ioc" type="462c0819:PsiDirectoryNode" />
+              <item name="dependency" type="462c0819:PsiDirectoryNode" />
+              <item name="lookup" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="study-spring" type="b2602c69:ProjectViewProjectNode" />
@@ -435,8 +461,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -454,6 +480,7 @@
       <recent name="E:\study-spring\ioc-cantainer-overview\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.weizhouck.ioc.dependency.container" />
       <recent name="com.weizhouck.ioc.dependency.injection" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -473,7 +500,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DependencyIngectionDemo">
+  <component name="RunManager" selected="Application.BeanFactoryIocContainer">
+    <configuration name="AnnotationApplicationContextIocContainer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.weizhouck.ioc.dependency.container.AnnotationApplicationContextIocContainer" />
+      <module name="ioc-cantainer-overview" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.weizhouck.ioc.dependency.container.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="BeanFactoryIocContainer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.weizhouck.ioc.dependency.container.BeanFactoryIocContainer" />
+      <module name="ioc-cantainer-overview" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.weizhouck.ioc.dependency.container.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="BeanInfoDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.weizhouck.beans.BeanInfoDemo" />
       <module name="ioc-beans-demo" />
@@ -552,9 +601,13 @@
       <item itemvalue="Application.BeanInfoDemo" />
       <item itemvalue="Application.DependencyLookupDemo" />
       <item itemvalue="Application.DependencyIngectionDemo" />
+      <item itemvalue="Application.BeanFactoryIocContainer" />
+      <item itemvalue="Application.AnnotationApplicationContextIocContainer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BeanFactoryIocContainer" />
+        <item itemvalue="Application.AnnotationApplicationContextIocContainer" />
         <item itemvalue="Application.DependencyIngectionDemo" />
         <item itemvalue="Application.DependencyLookupDemo" />
         <item itemvalue="Application.BeanInfoDemo" />
@@ -567,50 +620,54 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="bb791bb6-565c-4f66-bd89-48dd49450fd1" name="Default" comment="" />
+      <changelist id="08fbeb13-39b2-4e29-8cfa-9069c12b51d2" name="New changelist" comment="" />
       <created>1582949638155</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582949638155</updated>
-      <workItem from="1582949641959" duration="16690000" />
+      <workItem from="1582949641959" duration="21918000" />
+      <workItem from="1583052256982" duration="411000" />
+      <workItem from="1583052699257" duration="2374000" />
+      <workItem from="1583057248665" duration="44000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16690000" />
+    <option name="totallyTimeSpent" value="24747000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.32997763" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" weight="0.3283582" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29753914" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32997763" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.32922733" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.3283582" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49946696" weight="0.32922733" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3919373" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4989339" visible="true" weight="0.32922733" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32462686" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32922733" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32997763" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -621,24 +678,135 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="4" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../study-spring/ioc-beans-demo/pom.xml">
+    <entry file="file://$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/resources/META-INF/dependency-lookup-context.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="360">
+          <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/resources/META-INF/dependency-injection-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE-sources.jar!/org/springframework/beans/factory/ListableBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5904">
+          <caret line="265" column="17" selection-start-line="265" selection-start-column="17" selection-end-line="265" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2832">
+          <caret line="118" column="13" selection-start-line="118" selection-start-column="13" selection-end-line="118" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/domain/SuperUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/annotation/Supper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/resources/META-INF/dependency-lookup-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE-sources.jar!/org/springframework/beans/factory/ObjectFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE-sources.jar!/org/springframework/beans/factory/config/ObjectFactoryCreatingFactoryBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1920">
+          <caret line="100" column="19" selection-start-line="100" selection-start-column="19" selection-end-line="100" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/依赖查找和依赖注入.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1704">
+            <caret line="71" column="18" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/container/BeanFactoryIocContainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/container/AnnotationApplicationContextIocContainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" column="77" selection-start-line="25" selection-start-column="77" selection-end-line="25" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.9.RELEASE/spring-context-5.1.9.RELEASE-sources.jar!/org/springframework/context/annotation/AnnotationConfigApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1560">
+          <caret line="87" column="10" lean-forward="true" selection-start-line="87" selection-start-column="10" selection-end-line="87" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.9.RELEASE/spring-context-5.1.9.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14352">
+          <caret line="598" column="27" selection-start-line="598" selection-start-column="8" selection-end-line="598" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../study-spring/ioc-beans-demo/pom.xml" />
     <entry file="jar://D:/jdk1.8.0_60/src.zip!/java/beans/BeanInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1272">
           <caret line="53" column="7" selection-start-line="53" selection-start-column="7" selection-end-line="53" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#5750#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -656,16 +824,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../study-spring/ioc-beans-demo/src/main/java/com/weizhouck/beans/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../study-spring/ioc-beans-demo/src/main/java/com/weizhouck/beans/Person.java" />
     <entry file="jar://D:/jdk1.8.0_60/src.zip!/java/beans/PropertyEditorSupport.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
@@ -673,23 +832,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../study-spring/ioc-beans-demo/src/main/java/com/weizhouck/beans/BeanInfoDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="76" selection-start-line="18" selection-start-column="76" selection-end-line="18" selection-end-column="76" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../study-spring/ioc-beans-demo/src/main/java/com/weizhouck/beans/BeanInfoDemo.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE.jar!/org/springframework/beans/factory/ObjectFactory.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#300#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -697,9 +844,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#1922#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -710,34 +854,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../study-spring/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/annotation/Supper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="312">
           <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/domain/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/domain/SuperUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -760,56 +880,15 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE-sources.jar!/org/springframework/beans/factory/config/ObjectFactoryCreatingFactoryBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
+        <state relative-caret-position="1920">
           <caret line="100" column="19" selection-start-line="100" selection-start-column="19" selection-end-line="100" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE-sources.jar!/org/springframework/beans/factory/ObjectFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
+        <state relative-caret-position="600">
           <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="650" column="45" selection-start-line="650" selection-start-column="45" selection-end-line="650" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE-sources.jar!/org/springframework/beans/factory/ListableBeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="265" column="17" lean-forward="true" selection-start-line="265" selection-start-column="17" selection-end-line="265" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/依赖查找和依赖注入.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="278">
-            <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/lookup/DependencyLookupDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/resources/META-INF/dependency-lookup-context.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -820,10 +899,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/respository/UserRepository.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.9.RELEASE/spring-context-5.1.9.RELEASE.jar!/org/springframework/context/ConfigurableApplicationContext.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="25" column="62" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="62" />
+        <state relative-caret-position="383">
+          <caret line="45" column="50" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="118" column="13" selection-start-line="118" selection-start-column="13" selection-end-line="118" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.9.RELEASE/spring-context-5.1.9.RELEASE.jar!/org/springframework/context/annotation/AnnotationConfigApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.9.RELEASE/spring-context-5.1.9.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8345">
+          <caret line="788" column="52" selection-start-line="788" selection-start-column="52" selection-end-line="788" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.9.RELEASE/spring-context-5.1.9.RELEASE-sources.jar!/org/springframework/context/annotation/AnnotationConfigApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1560">
+          <caret line="87" column="10" selection-start-line="87" selection-start-column="10" selection-end-line="87" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.9.RELEASE/spring-context-5.1.9.RELEASE-sources.jar!/org/springframework/context/ConfigurableApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4536">
+          <caret line="211" column="36" selection-start-line="211" selection-start-column="36" selection-end-line="211" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.9.RELEASE/spring-context-5.1.9.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9840">
+          <caret line="514" column="16" selection-start-line="514" selection-start-column="16" selection-end-line="514" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk1.8.0_60/src.zip!/java/lang/Deprecated.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE-sources.jar!/org/springframework/beans/factory/ListableBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5904">
+          <caret line="265" column="17" selection-start-line="265" selection-start-column="17" selection-end-line="265" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE-sources.jar!/org/springframework/beans/factory/FactoryBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="65" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/domain/SuperUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/lookup/DependencyLookupDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="58" column="41" selection-start-line="58" selection-start-column="41" selection-end-line="58" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -832,14 +991,99 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/injection/DependencyIngectionDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="34" column="55" selection-start-line="34" selection-start-column="55" selection-end-line="34" selection-end-column="55" />
+        <state relative-caret-position="912">
+          <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/依赖查找和依赖注入.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="408">
+            <caret line="17" column="16" selection-start-line="17" selection-end-line="17" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../study-spring/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/respository/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/resources/META-INF/dependency-lookup-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/container/AnnotationApplicationContextIocContainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/container/BeanFactoryIocContainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../study-spring/ioc-cantainer-overview/src/main/java/com/weizhouck/ioc/dependency/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -863,6 +1107,19 @@
           </splitter-proportions>
         </settings>
       </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ioc-beans-demo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
@@ -877,6 +1134,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: org.projectlombok:lombok:1.18.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

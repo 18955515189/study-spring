@@ -8,6 +8,7 @@ import org.springframework.beans.factory.ListableBeanFactory;
 import org.springframework.beans.factory.ObjectFactory;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
+import org.springframework.core.env.Environment;
 
 import java.util.Map;
 
@@ -22,7 +23,10 @@ public class DependencyIngectionDemo {
     public static void main(String[] args){
         //配置 XML 配置文件
         //启动Spring 上下文
+        //内建依赖Bean BeanFactory
         BeanFactory beanFactory = new ClassPathXmlApplicationContext("classpath:/META-INF/dependency-injection-context.xml");
+
+        //自定义依赖Bean BeanFactory
         UserRepository userRepository = beanFactory.getBean("userRepository", UserRepository.class);
 
         System.out.println(userRepository);
@@ -35,6 +39,15 @@ public class DependencyIngectionDemo {
         System.out.println(objectFactoryApp.getObject());
         System.out.println(objectFactoryApp.getObject()==beanFactory);
 
+        //容器内建Bean
+        Environment environment = beanFactory.getBean(Environment.class);
+        System.out.println("获取Environment 类型的 Bean :"+environment);
+        whoIsIocContainer(userRepository,beanFactory);
+    }
+
+    private static void whoIsIocContainer(UserRepository userRepository,BeanFactory beanFactory){
+        // 为什么不成立
+        System.out.println("为什么不成立 ? "+ (userRepository.getBeanFactory()==beanFactory));
     }
 
 }
